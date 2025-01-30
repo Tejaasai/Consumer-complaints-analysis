@@ -14,13 +14,16 @@ Exploratory Data Analysis, Data Cleaning, Creation of Dynamic Dashboards, and In
 # Challenges:
  
 •	State code and state were given Json format converting into tabular form using excel
+
 •	There are few complaints where the given state codes did not match with states so it resulted in complaints with no state name.
 
 
 # Findings:
 
 •	The Number of complaints increased from 2013 to 2015 and then we can see a slight decrease in complaints for 2016 because company might make some improvements like timely response and all so the complaints are decreased this is the insight we get from the chart.
+
 •	Mostly complaints were submitted through web and very less complaints were submitted through post mail and fax and from this we can understand that most of the customers were active on web
+
 •	Complaints were more on mortgage and debt collections because most of the people opt for these when compared to others.
 
 
