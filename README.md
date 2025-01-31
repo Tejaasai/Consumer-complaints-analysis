@@ -22,17 +22,22 @@ Exploratory Data Analysis, Data Cleaning, Creation of Dynamic Dashboards, and In
 
 ## Findings:
 
-•	The Number of complaints increased from 2013 to 2015 and then we can see a slight decrease in complaints for 2016 because company might make some improvements like timely response and all so the complaints are decreased this is the insight we get from the chart.
+•	The Number of complaints increased from 2013 to 2015 and then we can see a slight decrease in complaints for 2016  because company might make some improvements like timely response and all so the complaints are   decreased this is the insight we get from the chart.
 
-•	Mostly complaints were submitted through web and very less complaints were submitted through post mail and fax and from this we can understand that most of the customers were active on web
+•	The Average time to resolve the complaints has been decreased over time and we can see there is a slight difference in resolution of complaints from 2013 to 2014 but there is huge difference when we compare    
+  2013 to 2016 time taken to resolve the issue has been decreased this is the insight we get from the data.
 
-•	Complaints were more on mortgage and debt collections because most of the people opt for these when compared to others.
+•	The Timely response was good  until the year 2015 and later we can see a decrease in timely response in the year 2016 and if the timely response is not good it might effect the good will of the particular  
+  company.
+
+•	Mostly complaints were submitted through web and very less complaints were submitted through post mail and fax and from this we can understand that most of the customers were active on web and there very less 
+  complaints submitted through post mail and fax because web might not be available to them.
+
+• From Monthly trend  we got to know that complaints decreased from September to november and the complaints are more untill August and from there we can see the decrease of trend.
+
+• Most of the issues are regarding Loan servicing payments,escrow account and we can also observe that its not only in latest year every year this Loan servicing payments,escrow account is the majority one when 
+  compared to other issues.
 
 
-## Detailed Steps:
 
-•	As part of this project, I analyzed consumer complaints data from multiple organizations and developed strategies to enhance the complaint resolution process.
 
-•	I examined various Key Performance Indicators (KPIs) such as year-on-year changes in the percentage of complaints, timely response to complaints, average resolution time, and monthly trends to gain insights into overall customer experience. This analysis was further done at the state level, bank level, product level, Type of Complaint, Dispute Status, Channel, time (Month, Year, Day, week) etc.
-
-•	I created a dynamic Excel dashboard that includes all the mentioned KPIs with interactive filters for location (state, region), product, channel, issue type, and time. This enables stakeholders to drill down and address specific areas of customer experience.
